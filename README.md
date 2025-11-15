@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Task 2: Data Visualization & Storytelling
 
 ## Objective
@@ -31,3 +32,7 @@ This project analyzes the Superstore dataset using Power BI and presents insight
 
 ## Tool Used
 Power BI Desktop
+=======
+# Task2_DataVisualization
+A Power BI project analyzing the Superstore dataset through meaningful visualizations and storytelling.  Includes insights on sales trends, category performance, customer behavior, and regional analysis along with business recommendations.
+>>>>>>> 0e21c90c7707f298b7024b0a3e9321c2ba5ec059
